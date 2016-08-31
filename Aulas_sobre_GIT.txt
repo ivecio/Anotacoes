@@ -21,3 +21,5 @@
 - usar o comando acima, pois somente digitar "git commit" trava o aplicativo;
 
 - para gerar um novo commit é preciso usar os comandos "add" e depois "commmit"; também pode se usar o "status" para ver se deu certo;
+
+- teste para ver se deu certo a mudança, sem add;
