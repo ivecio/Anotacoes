@@ -1,0 +1,16 @@
+- Git funciona para fazer controle de versões;
+
+- Um commit é um salvamento de uma versão do arquivo, ideal para tempos em tempos, caso algo não funcione;
+
+- O Git trabalha com projetos, por isso pode se salvar vários arquivos alterados dentro de um commit, enquanto outros sistemas salvam somente um arquivo de cada vez;
+
+- "git log (commit)" é usado para exibir o log de alterações nos arquivos - REPOSITÓRIO -, e "gti diff (commit)" faz o comando para apurar as diferenças entre os arquivos;
+
+- O comando "git clone (url)" faz a cópia de um repositório da web;
+
+- O controle de versão permite mais amplitude de alterações, sem medo de perder dados ou codificações importantes;
+
+- comando "git init" inicia um novo repositório. Deve ser executado na pasta que vai iniciar o repositório;
+
+- o comando "git add" adiciona arquivos à área de preparo do GIT. Depois serão selecionados para um commit;
+
