@@ -14,3 +14,10 @@
 
 - o comando "git add" adiciona arquivos à área de preparo do GIT. Depois serão selecionados para um commit;
 
+- para retirar um arquivo adicionado acidentalmente, utiliza-se o comando "git reset";
+
+- git commit -m "mensagem"  - insere a mensagem para um commit;
+
+- usar o comando acima, pois somente digitar "git commit" trava o aplicativo;
+
+- para gerar um novo commit é preciso usar os comandos "add" e depois "commmit"; também pode se usar o "status" para ver se deu certo;
